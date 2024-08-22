@@ -6,10 +6,12 @@
 
 ## Contents
 
-- [Official Sites](#Official Sites) 
+- [Official Sites](#OfficialSites) 
 - [Articles](#articles)
 - [Videos](#videos)
 - [Documents](#documents)
+- [Podcasts](#podcasts)
+  
 
 
 ## Official Sites
@@ -62,6 +64,10 @@
 8. [Odoo 17 JavaScript Framework Tutorial](https://www.odoo.com/documentation/17.0/developer.html)
 9. [Odoo 17 Development Cookbook](https://github.com/PacktPublishing/Odoo-17-Development-Cookbook-Fifth-Edition)
 10. [Odoo 17 Community Edition Book](https://www.cybrosys.com/odoo/odoo-books/v17-ce/)
+
+## Podcasts
+
+1. [Planet Odoo on Apple Podcasts](https://podcasts.apple.com/ca/podcast/planet-odoo/id1668961020)
 
 ## Contribute
 
