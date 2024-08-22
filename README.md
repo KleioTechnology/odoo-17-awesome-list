@@ -6,9 +6,23 @@
 
 ## Contents
 
+- [Official Sites](#Official Sites) 
 - [Articles](#articles)
 - [Videos](#videos)
 - [Documents](#documents)
+
+
+## Official Sites
+1. [Odoo Official Website](https://www.odoo.com)
+2. [Odoo Partners](https://www.odoo.com/partners)
+3. [Odoo Documentation](https://www.odoo.com/documentation)
+4. [Odoo Apps](https://apps.odoo.com)
+5. [Odoo Community Association (OCA)](https://odoo-community.org)
+6. [Odoo Events](https://www.odoo.com/event)
+7. [Odoo Forum](https://www.odoo.com/forum/help-1)
+8. [Odoo Blog](https://www.odoo.com/blog)
+9. [Odoo GitHub](https://github.com/odoo/odoo)
+10. [Odoo Support](https://www.odoo.com/help)
 
 ## Articles
 
