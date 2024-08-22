@@ -8,9 +8,9 @@
 
 - [Official Sites](#OfficialSites) 
 - [Articles](#articles)
-- [Videos]
-  -  Single Videos (#videos)
-  -  YouTube Channels(#channels)
+- Videos
+  -  [Single Videos] (#videos)
+  -  [YouTube Channels] (#channels)
 - [Documents](#documents)
 - [Podcasts](#podcasts)
   
