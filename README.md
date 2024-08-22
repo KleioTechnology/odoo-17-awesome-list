@@ -6,22 +6,27 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Articles](#articles)
+- [Videos](#videos)
+- [Documents](#documents)
 
-## Section
+## Articles
 
-About this section. Optional. Keep this short and focus on the list.
+1. [What's New in Odoo 17](https://www.envertis.com/whats-new-in-odoo-erp-17-complete-roadmap/)
+2. [Meet Odoo 17](https://www.odoo.com/blog/odoo-news-5/meet-odoo-17-1142)
+3. [Unlocking the Power of Odoo 17](https://en.tigosolutions.com/post/6827/unlocking-the-power-of-odoo-17)
+4. [Odoo 17 Development Environment Setup](https://www.odoo.com/documentation/17.0/developer/tutorials.html)
+5. [Defining Module Data in Odoo 17](https://www.odoo.com/documentation/17.0/developer/tutorials.html)
+6. [Implementing Security in Odoo 17](https://www.odoo.com/documentation/17.0/developer/tutorials.html)
+7. [Safeguard Your Code with Unit Tests](https://www.odoo.com/documentation/17.0/developer/tutorials.html)
+8. [Building PDF Reports in Odoo 17](https://www.odoo.com/documentation/17.0/developer/tutorials.html)
+9. [Odoo 17 Community Edition Book](https://www.cybrosys.com/odoo/odoo-books/v17-ce/)
+10. [Documents in Odoo 17](https://www.cybrosys.com/odoo/odoo-books/v17/documents/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
 
-## Another Section
+## Videos
 
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Documents
 
 
 ## Contribute
