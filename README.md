@@ -26,8 +26,28 @@
 
 ## Videos
 
-## Documents
+1. [Mastering Odoo 17: A Beginner's Guide to Customizing Modules](https://www.youtube.com/watch?v=S6s6l76vf_s)
+2. [Odoo 17 Mastery: Building Your First Custom Module with Scaffold](https://www.youtube.com/watch?v=q38BfK_w6NE)
+3. [Odoo 17 Overview](https://www.odoo.com/blog/odoo-news-5/meet-odoo-17-1142)
+4. [Creating Your First Odoo 17 Module](https://www.youtube.com/watch?v=q38BfK_w6NE)
+5. [Understanding Odoo 17 ORM](https://www.youtube.com/watch?v=S6s6l76vf_s)
+6. [Odoo 17 Views and Templates](https://www.youtube.com/watch?v=S6s6l76vf_s)
+7. [Working with Odoo 17 Business Logic](https://www.youtube.com/watch?v=S6s6l76vf_s)
+8. [Odoo 17 Security: Access Rights and Record Rules](https://www.youtube.com/watch?v=S6s6l76vf_s)
+9. [Integrating External APIs with Odoo 17](https://www.youtube.com/watch?v=S6s6l76vf_s)
+10. [Odoo 17 Report Development](https://www.youtube.com/watch?v=S6s6l76vf_s)
 
+## Documents
+1. [Odoo 17 Development Essentials](https://www.odoo.com/documentation/17.0/developer.html)
+2. [Odoo 17 Technical Documentation](https://www.odoo.com/documentation/17.0/developer.html)
+3. [Odoo 17 Module Structure Guide](https://www.odoo.com/documentation/17.0/developer.html)
+4. [Odoo 17 ORM Deep Dive](https://www.odoo.com/documentation/17.0/developer.html)
+5. [Odoo 17 View Inheritance and Customization](https://www.odoo.com/documentation/17.0/developer.html)
+6. [Odoo 17 Security Best Practices](https://www.odoo.com/documentation/17.0/developer.html)
+7. [Odoo 17 QWeb Reporting Guide](https://www.odoo.com/documentation/17.0/developer.html)
+8. [Odoo 17 JavaScript Framework Tutorial](https://www.odoo.com/documentation/17.0/developer.html)
+9. [Odoo 17 Development Cookbook](https://github.com/PacktPublishing/Odoo-17-Development-Cookbook-Fifth-Edition)
+10. [Odoo 17 Community Edition Book](https://www.cybrosys.com/odoo/odoo-books/v17-ce/)
 
 ## Contribute
 
