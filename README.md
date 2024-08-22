@@ -8,7 +8,9 @@
 
 - [Official Sites](#OfficialSites) 
 - [Articles](#articles)
-- [Videos](#videos)
+- [Videos]
+  -  Single Videos (#videos)
+  -  YouTube Channels(#channels)
 - [Documents](#documents)
 - [Podcasts](#podcasts)
   
@@ -68,6 +70,24 @@
 ## Podcasts
 
 1. [Planet Odoo on Apple Podcasts](https://podcasts.apple.com/ca/podcast/planet-odoo/id1668961020)
+
+## Channels
+1. [Odoo](https://www.youtube.com/@Odoo)
+2. [Knowledge Odoo](https://www.youtube.com/@knowledgeodoo630)
+3. [Odoo IT Yourself](https://www.youtube.com/@odoo-it-yourself)
+4. [Cybrosys Technologies](https://www.youtube.com/@cybrosys-technologies)
+5. [Odoo Mates](https://www.youtube.com/@OdooMates)
+6. [Ray Odoo](https://www.youtube.com/@ray_odoo)
+7. [Nicholas Kosinski](https://www.youtube.com/@nicholaskosinski9870)
+8. [Amanda Popovski](https://www.youtube.com/@amandapopovski7081)
+9. [KZAKI](https://www.youtube.com/@KZAKI)
+10. [John Collins](https://www.youtube.com/@johncollins6359/featured)
+11. [Jose Odoo](https://www.youtube.com/@Jose-Odoo)
+12. [Stephanie Shahin](https://www.youtube.com/@stephanieshahin/featured)
+13. [Garrett Strom](https://www.youtube.com/@garrettstrom6836)
+14. [Brett Hydeman](https://www.youtube.com/@bretthydeman1173)
+15. [Mantavya Gajjar](https://www.youtube.com/@mantavyagajjar)
+
 
 ## Contribute
 
