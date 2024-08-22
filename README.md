@@ -8,7 +8,7 @@
 
 - [Official Sites](#OfficialSites) 
 - [Articles](#articles)
-- (Videos)[#videos]
+- [Videos](#videos)
   -  [Single Videos](#individuals)
   -  [YouTube Channels](#channels)
 - [Documents](#documents)
